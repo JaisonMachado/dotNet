@@ -11,7 +11,7 @@ Github:  [github.com/JaisonMachado](https://github.com/JaisonMachado)
 
 [Slides](dio-dotnet-poo-lab-2.pdf)
 
-## Contato
+## Contato do Instrutor
 
 Eliézer Zarpelão
 
